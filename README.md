@@ -1,113 +1,77 @@
-# வணக்கம் (Vanakkam)! I'm **Gunasree** 👋  
-<h3 align="center">A Data Analyst with a passion for AI, Cloud, and Real-Time IIoT Systems</h3>
-📍 Based in India 🇮🇳 | 🔍 *Search You Will Find*
+<h1 align="center"> வணக்கம் (Vanakkam)! I'm GUNASREE 👋 </h1>
+<h3 align="center">Data Analyst | Gen AI & Cloud Explorer | IIoT Enthusiast 🚀</h3>
+<p align="center">📍 India | 🔍 "Search, You Will Find"</p>
+
+---
+
+### 🧠 About Me
+- 🎓 Final-year B.Tech AI & Data Science Student at KIOT
+- 🌏 International mobility student @ INTI University, Malaysia (Jan 2025 - May 2025)
+- 🛠 Building real-time dashboards using **MQTT, ELK, Power BI**
+- 💻 Focused on GenAI, IoT, Cloud & Machine Learning
+- 🎯 Seeking GenAI Engineer / R&D Analyst roles (12+ LPA)
+
+---
+
+### 🚀 Projects
+- **Resume Matcher** – AI-based ATS resume parser  
+- **MQTT Dashboard** – IIoT data visualization for machine health  
+- **Emergency SOS App** – React + ML-powered smart alert system
+
+---
+
+### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNzNW5yb3loOHFzaHlhemFoM2NzaXprODY4dDAzOTA2eThpeHUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Intro GIF" width="700">
+<strong>Languages & Frameworks:</strong><br>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet" />
+</p>
+
+<p align="center">
+<strong>Tools & Platforms:</strong><br>
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter" />
+<img src="https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab" />
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/-ELK-005571?style=for-the-badge&logo=elasticstack" />
+<img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics" />
 </p>
 
 ---
 
-## 📄 Resume Highlights
-
-| Category       | Details |
-|----------------|---------|
-| 🎓 **Education** | B.Tech in AI & Data Science |
-| 💼 **Experience** | Intern at AUSEG INFO CONTROLS, RW Internship, ML research projects |
-| 🛠️ **Skills**     | Python • TensorFlow • Django • RNN | Web Dev (React, Firebase) |
-| 🌟 **Recognition**| International mobility program student to INTI, Malaysia • VISAI Hackathon mentiorship from Ashok Leyland |
-| 📈 **Career Goal**| Gen AI Engineer or R&D Analyst (12+ LPA) |
-
-[Download Resume 📎](#) *(Link to uploaded PDF)*
+### 📄 Resume
+📌 [**View My Resume**](https://github.com/rgunasree/rgunasree/blob/main/GUNASREE_R_RESUME.pdf)
 
 ---
 
-## 🚀 Featured Projects
+### 🎮 GitHub Stack Game (Snake 🐍)
 
-- **Resume-Matcher** — ATS resume parser + scoring tool  
-- **Dive into IIoT** — MQTT-based IIoT monitoring system  
+> Move your cursor around — it's alive!  
+> ⚠️ This works only on desktop view.
 
+[![GitHub Snake Light](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/platane/snk)
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/gifs/automatic-typing.gif" alt="Typing GIF" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=rgunasree&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgunasree&theme=radical" width="48%"/>
 </p>
 
 ---
 
-### 🚀 Tech Stack & Tools
-
-#### 🖥 Languages & Frameworks:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)  
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=dotnet)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
-
-#### ⚙️ Tools:
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visual-studio)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)  
-![Google Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=googlecolab)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)  
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?style=flat-square&logo=googleanalytics)  
-![Pentaho](https://img.shields.io/badge/-Pentaho-black?style=flat-square&logo=dataiku)  
-![ELK Stack](https://img.shields.io/badge/-ELK-black?style=flat-square&logo=elastic)  
-
-#### 📊 Technical Areas:
-- Deep Learning, NLP, Computer Vision  
-- AI/ML, Data Science, Predictive Modeling  
-- Data Warehousing, ETL, ELK  
-- Web Dev (HTML/CSS, JavaScript, WordPress)  
-- Statistics, Data Viz, Social & Mobile Analytics
-  
----
-
-### 🌱 I’m currently learning:
-- Cloud-Native ML Development
-- Real-Time Streaming in IIoT
-- GenAI Integrations & Deployments
+### 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gunasree-r-55024224a/)  
+[![Gmail](https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunasreer010@gmail.com)
 
 ---
 
-### ✨ Soft Skills:
-- 🤝 Communication (Community Service Director, KIOT Rotaract)
-- 🗣 Presentation (Speaker @ VISAI Hackathon 2024)
-
----
-
-## 🤝 Collaboration & Goals
-
-- Interested in ML/AI, RNN research, data projects, generative AI  
-- Seeking collaborations and contributions in AI/ML domains  
-- Happy to mentor or guide peers in Python, DS, and web dev  
-
----
-
-## 💬 Personal Interests
-
-- 🎸 Guitar & Hand-made Crafts  
-- 📚 Self-discipline & comic books  
-- 🚶 Nature walks & creative breaks  
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunasree-r-55024224a)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rgunasree)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/gunasree__r)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunasreeer@gmail.com)
-
----
-
-## 📊 GitHub Stats & Visitor Count
-
-<!-- GitHub stats cards -->
-<!-- Add with: github-readme-stats and visitor badge actions as per awesome‑github‑profile‑readme list -->
-
----
-
-<div align="center">
-### ⭐ If you enjoyed this profile, show some ❤️ and star my repositories!
-</div>
+> “Let the data speak and the models listen.” 💡
