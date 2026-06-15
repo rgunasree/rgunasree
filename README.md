@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Final-year B.Tech AI & Data Science Student at KIOT
+- 🎓 UG B.Tech AI & Data Science Student at KIOT
 - 🌏 International mobility student @ INTI University, Malaysia (Jan 2025 - May 2025)
 - 🛠 Building real-time dashboards using **MQTT, ELK, Power BI**
 - 💻 Focused on GenAI, IoT, Cloud & Machine Learning
