@@ -1,5 +1,5 @@
 <h1 align="center"> வணக்கம் (Vanakkam)! I'm GUNASREE 👋 </h1>
-<h3 align="center">Data Analyst | Gen AI & Cloud Explorer | Data Engineer Intern 🚀</h3>
+<h3 align="center">Associate AI Engineer @BGI 🚀</h3>
 <p align="center">📍 India | 🔍 "Search, You Will Find"</p>
 
 ---
